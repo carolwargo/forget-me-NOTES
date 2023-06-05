@@ -19,6 +19,10 @@ The following images show the web application's appearance and functionality:
 
 ![Note titled “Bank Fraud & Tax Evasion” reads, “DEPOSIT: $999,900 off shore, $100 locally, report $10" and save icon appears top right nav bar.](./Assets/images/Note%20Taker%20image%201.png)
 
+DEPLOYED URL:
+* HEROKU https://git.heroku.com/forget-me-note-taker.git
+
+
 ## FUNCTION
 
 DATABASE:
@@ -92,6 +96,7 @@ Depolyment
 
 * Node
 * Heroku
+
 
 
 
