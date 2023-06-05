@@ -21,8 +21,8 @@ The following images show the web application's appearance and functionality:
 
 
 ## DEPLOYMENT
-* HEROKU https://git.heroku.com/forget-me-note-taker.git
-
+* HEROKU URL: https://git.heroku.com/forget-me-note-taker.git
+* GitHub URL: https://carolwargo.github.io/forget-me-NOTES/
 
 ## FUNCTION
 
@@ -98,7 +98,12 @@ Depolyment
 * Node
 * Heroku
 
+## AUTHOR
+https://user-images.githubusercontent.com/84477950/243474429-ab5f177d-0f73-41ba-b9ec-22e05087cec8.png
 
+Carol Wargo-
+GitHub: https://github.com/carolwargo
+"Mom of 2 men & 1 boy, living the dream, with my glass half full."
 
 
 
