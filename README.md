@@ -15,9 +15,9 @@ Forget-Me-NOTES is a note taking application used to WRITE, SAVE and DELETE task
 
 The following images show the web application's appearance and functionality:
 
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/11-express-homework-demo-01.png)
+![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/images/Note%20Taker%20(2).png)
 
-![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)
+![Note titled “Bank Fraud & Tax Evasion” reads, “DEPOSIT: $999,900 off shore, $100 locally, report $10" and save icon appears top right nav bar.](./Assets/images/Note%20Taker%20image%201.png)
 
 ## FUNCTION
 
