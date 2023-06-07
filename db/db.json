@@ -8,5 +8,10 @@
         "title": "Grocery Store",
         "text": "Grizzly Bear\nOctopus\nOstrich Eggs \nYak's Milk",
         "id": "fdcde76d-73ea-4014-b7fc-49eb1b622155"
+    },
+    {
+        "title": "Dry Cleaner",
+        "text": "Persian Rugs\nWedding Dress",
+        "id": "a120c7aa-29f9-4f53-866b-06f9ab566c42"
     }
 ]
