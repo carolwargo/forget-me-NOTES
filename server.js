@@ -33,13 +33,6 @@ app.get('/notes', (req, res) => {
   res.sendFile(path.join(__dirname, './public/notes.html'));
 });
 
-
-// Wildcard route to direct users to a 404 page
-app.get('*', (req, res) => {
-  console.log('Received request for 404 page');
-  res.sendFile(path.join(__dirname, './public/404.html'));
-});
-
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
 );
