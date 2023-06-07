@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const api = require('./routes/index.js');
+const api = require('./routes/index');
 const expressListEndpoints = require('express-list-endpoints');
 
 const PORT = process.env.PORT || 3001;
@@ -23,14 +23,14 @@ app.use(express.static('public'));
 // GET Route for homepage
 app.get('/', (req, res) => {
   console.log('Received request for /');
-  res.sendFile(path.join(__dirname, './public/index.html'));
+  res.sendFile(path.join(__dirname, '/public/index.html'));
 });
 
 
 // GET Route for notes page
 app.get('/notes', (req, res) => {
   console.log('Received request for /notes');
-  res.sendFile(path.join(__dirname, './public/notes.html'));
+  res.sendFile(path.join(__dirname, '/public/notes.html'));
 });
 
 app.listen(PORT, () =>
