@@ -14,19 +14,24 @@ app.use('/api', api);
 app.use(express.static('public'));
 
 // GET Route for homepage
-app.get('/', (req, res) =>
-  res.sendFile(path.join(__dirname, './public/index.html'))
-);
+app.get('/', (req, res) => {
+  console.log('Received request for /');
+  res.sendFile(path.join(__dirname, './public/index.html'));
+});
+
 
 // GET Route for notes page
-app.get('/notes', (req, res) =>
-  res.sendFile(path.join(__dirname, './public/notes.html'))
-);
+app.get('/notes', (req, res) => {
+  console.log('Received request for /notes');
+  res.sendFile(path.join(__dirname, './public/notes.html'));
+});
+
 
 // Wildcard route to direct users to a 404 page
-app.get('*', (req, res) =>
-  res.sendFile(path.join(__dirname, './public/404.html'))
-);
+app.get('*', (req, res) => {
+  console.log('Received request for 404 page');
+  res.sendFile(path.join(__dirname, './public/404.html'));
+});
 
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
