@@ -21,8 +21,8 @@ The following images show the web application's appearance and functionality:
 
 
 ## DEPLOYMENT
-* HEROKU URL: https://git.heroku.com/forget-me-note-taker.git
-* GitHub URL: https://carolwargo.github.io/forget-me-NOTES/
+
+* HEROKU URL: https://git.heroku.com/forget-me-note-taker.gitLinks 
 
 ## FUNCTION
 
