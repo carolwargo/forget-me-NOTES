@@ -22,7 +22,7 @@ The following images show the web application's appearance and functionality:
 
 ## DEPLOYMENT
 
-* HEROKU URL: https://git.heroku.com/forget-me-note-taker.gitLinks 
+* HEROKU URL: https://git.heroku.com/forget-me-note-taker.git
 
 ## FUNCTION
 
